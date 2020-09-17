@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+ <item-info> 
+    <name> ; ; </name>
+	<id>default</id>
+ </item-info>
+ 
+ <item-info> 
+    <name> ; ; </name>
+	<id>jinsenianhua</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+
+ <item-info> 
+    <name> ; ; </name>
+	<id>shuiguopaidui</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+  <item-info> 
+    <name> ; ; </name>
+	<id>xingguangcuican</id>
+ </item-info>
+ 
+ <item-info> 
+    <name> ; ; </name>
+	<id>xingjizhiguang</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+ <item-info> 
+    <name> ; ; </name>
+	<id>yuanzhicaiyun</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+  <item-info> 
+    <name> ; ; </name>
+	<id>zhiruochujian</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+ 
+ 
+  <item-info> 
+    <name> ; ; </name>
+	<id>pushuziruan</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+ 
+ 
+  <item-info> 
+    <name> ; ; </name>
+	<id>liuguangyicai</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+ 
+ 
+  <item-info> 
+    <name> ; ; </name>
+	<id>suiyueruge</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+ 
+  <item-info> 
+    <name> ; ; </name>
+	<id>xinruzhisui</id>
+	<folder_layer>4</folder_layer>
+ </item-info>
+ 
+</items>

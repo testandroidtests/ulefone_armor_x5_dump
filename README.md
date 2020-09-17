@@ -1,0 +1,13 @@
+# full_k63v2_64_bsp-user 9 PPR1.180610.011 1587533053 release-keys
+- manufacturer: ulefone
+- platform: mt6763
+- codename: Armor_X5
+- flavor: full_k63v2_64_bsp-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: 1587533053
+- tags: release-keys
+- fingerprint: Ulefone/Armor_X5_EEA/Armor_X5:9/PPR1.180610.011/1587533053:user/release-keys
+- brand: Ulefone
+- branch: full_k63v2_64_bsp-user-9-PPR1.180610.011-1587533053-release-keys
+- repo: ulefone_armor_x5_dump

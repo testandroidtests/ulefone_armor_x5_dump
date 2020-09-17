@@ -1,0 +1,6 @@
+chip:MT6763(CPU) + MT6357(PMIC) + AW8736(PA)
+
+product:Kxxx
+
+version:Vx-xxx
+
